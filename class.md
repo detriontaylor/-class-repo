@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
+Detrion
+Meta Back-End course
 
